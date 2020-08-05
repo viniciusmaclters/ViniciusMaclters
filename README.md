@@ -7,7 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-vinicius.maclters@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinicius.maclters@gmail.com)](vinicius.maclters@gmail.com)
 
 <br/> :rocket:  &nbsp; Atualmente estudando Desenvolvimento Web com o pessoal da **Rocketseat**.
-<br/> :computer &nbsp: Pretendo ser um Full-Stack Developer.
+<br/> :computer: &nbsp: Pretendo ser um Full-Stack Developer.
 <br/> 💬  &nbsp; Sobre mim: Gosto de sempre esta atualizado, leitura e games.
 
 
