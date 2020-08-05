@@ -1,4 +1,4 @@
-<img width=""  src="https://cio.com.br/wp-content/uploads/2019/11/por-que-a-linguagem-rust-esta-em-ascensao.jpg">
+<img width="auto"  src="https://cio.com.br/wp-content/uploads/2019/11/por-que-a-linguagem-rust-esta-em-ascensao.jpg">
 
 
 # Vinicius Maclters 
