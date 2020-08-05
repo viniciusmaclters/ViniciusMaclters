@@ -8,7 +8,7 @@
 
 <br/> :rocket:  &nbsp; Atualmente estudando Desenvolvimento Web com o pessoal da **Rocketseat**.
 <br/> :computer: &nbsp; Pretendo ser um Full-Stack Developer.
-<br/> 💬  &nbsp; Sobre mim: Gosto de sempre esta atualizado, leitura e games.
+<br/> 💬  &nbsp; Sobre mim: Gosto de sempre estar atualizado, curto também leitura e games.
 
 
 
