@@ -1,4 +1,4 @@
-<img width="auto" src="https://blog.diferencialti.com.br/wp-content/uploads/2018/10/programacao-1280x640.jpg">
+<img width="200px"  src="https://blog.diferencialti.com.br/wp-content/uploads/2018/10/programacao-1280x640.jpg">
 
 
 # Vinicius Maclters 
