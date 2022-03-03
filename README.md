@@ -6,7 +6,7 @@
 <br/> 💬  &nbsp; Sobre mim: Gosto de sempre estar atualizado, curto também leitura e games.
 
 &nbsp; <strong>Entre em contato comigo:<strong/> [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/vinicius-maclters-b106a5172/)](https://www.linkedin.com/in/vinicius-maclters-b106a5172/)
-[![Gmail Badge](https://img.shields.io/badge/-GMAIL-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinicius.maclters@gmail.com)](mailto:vinicius.maclters@gmail.com)
+[![Hotmail Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:vinicius.maclters@hotmail.com)](mailto:vinicius.maclters@hotmail.com)
  
 <div align="center">
   <a href="https://github.com/viniciusmaclters">
