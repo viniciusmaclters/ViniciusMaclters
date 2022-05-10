@@ -1,30 +1,49 @@
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou Vinicius Maclters!</h1>
 
-### Olá! Sou Vinicius Maclters
 
-<br/> 🚀 &nbsp; Atualmente estudando Desenvolvimento Web com o pessoal da **RocketSeat**.
-<br/> :computer: &nbsp; Tenho interesse, no primeiro momento, em Front-end.
-<br/> 💬  &nbsp; Sobre mim: Gosto de sempre estar atualizado, curto também leitura e games.
+<img align="right" width="300em" height="300em" src="https://github.com/birobirobiro/birobirobiro/blob/master/animation_500_kv8i962g.gif?raw=true"/>
 
-&nbsp; <strong>Entre em contato comigo:<strong/> [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/vinicius-maclters-b106a5172/)](https://www.linkedin.com/in/vinicius-maclters-b106a5172/)
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:vinicius.maclters@hotmail.com)](mailto:vinicius.maclters@hotmail.com)
+- 🔭  Atualmente estudante de Desenvolvimento Web pela [Rocketseat](https://app.rocketseat.com.br/me/vinicius-souza-1579159686)
+
+- 🌱  Focando nas tecnologias **HTML, CSS, JavaScript, ReactJS.**
+
+- 🚀  Podem me encontrar no meu [Linkedin](https://www.linkedin.com/in/viniciusmaclters/)
+
+
+<br>
+
+## 🛠 &nbsp;Tech Stack
+
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+## ⚙️ &nbsp;GitHub Analytics
+<br>
+
+<p align="center">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=viniciusmaclters&show_icons=true&theme=nightowl" alt="vinicius stats"/>
+</p>
+
+##
+
+<p align="center" style="background:blue">
+  <a href="https://www.instagram.com/viniciusmaclters/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-viniciusmaclters-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+<a href="https://www.linkedin.com/in/viniciusmaclters/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-viniciusmaclters-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
  
-<div align="center">
-  <a href="https://github.com/viniciusmaclters">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusmaclters&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmaclters&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Vinicius-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Vinicius-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Vinicius-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Vinicius-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vinicius-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-
-  
-
-
+ <a href="mailto:vinicius.maclters@hotmail.com" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/viniciusmaclters-05122A?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/>
+</a>
+ 
+ 
 
 
 
