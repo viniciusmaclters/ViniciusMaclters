@@ -3,7 +3,7 @@
 
 <img align="right" width="300em" height="300em" src="https://github.com/birobirobiro/birobirobiro/blob/master/animation_500_kv8i962g.gif?raw=true"/>
 
-- 🔭  Atualmente estudante de Desenvolvimento Web pela [Rocketseat](https://app.rocketseat.com.br/me/vinicius-souza-1579159686)
+- 🔭  Atualmente Estudante de Desenvolvimento Web pela [Rocketseat](https://app.rocketseat.com.br/me/vinicius-souza-1579159686)
 
 - 🌱  Focando nas tecnologias **HTML, CSS, JavaScript, ReactJS.**
 
