@@ -1,7 +1,7 @@
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou Vinicius Maclters!</h1>
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="15px">, eu sou Vinicius Maclters!</h1>
 
 
-<img align="right" width="200em" height="200em" src="https://github.com/birobirobiro/birobirobiro/blob/master/animation_500_kv8i962g.gif?raw=true"/>
+<img align="right" width="300em" height="300em" src="https://github.com/birobirobiro/birobirobiro/blob/master/animation_500_kv8i962g.gif?raw=true"/>
 
 - 🔭  Atualmente Estudante de Desenvolvimento Web pela [Rocketseat](https://app.rocketseat.com.br/me/vinicius-souza-1579159686)
 
