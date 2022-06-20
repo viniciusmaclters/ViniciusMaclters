@@ -1,4 +1,4 @@
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="15px">, eu sou Vinicius Maclters!</h1>
+<img height="250px" src="https://i.ibb.co/61nPwCh/github-header-image.png"/>
 
 
 <img align="right" width="300em" height="300em" src="https://github.com/birobirobiro/birobirobiro/blob/master/animation_500_kv8i962g.gif?raw=true"/>
