@@ -1,51 +1,23 @@
-<img height="250px" src="https://i.ibb.co/61nPwCh/github-header-image.png"/>
+# Olá, Sou Vinicius Maclters 👨🏻‍💻 - @viniciusmaclters
+
+<h4 align="center">
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/viniciusmaclters)](https://www.linkedin.com/in/viniciusmaclters/)
+[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://https://github.com/viniciusmaclters)](https://www.instagram.com/viniciusmaclters/)
+[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com)
+[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
+
+</h4>
+
+Atualmente estudante de programação, tenho focado na área de Front-end e em busca da minha primeira oportunidade em programação. 
+
+Tenho conhecimento em: HMTL, CSS, JavaScript, TypeScript, React, SaSS, Git, Linux, Windows.
+
+Você pode entrar em contato comigo pelo meu email: vinicius.maclters@hotmail.com
 
 
-<img align="right" width="300em" height="300em" src="https://github.com/birobirobiro/birobirobiro/blob/master/animation_500_kv8i962g.gif?raw=true"/>
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=viniciusmaclters&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arthurspk&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viniciusmaclters&theme=nord_dark) |
+| :-: | :-: | :-: |
 
-- 🔭  Atualmente Estudante de Desenvolvimento Web pela [Rocketseat](https://app.rocketseat.com.br/me/vinicius-souza-1579159686)
-
-- 🌱  Focando nas tecnologias **HTML, CSS, JavaScript, ReactJS.**
-
-- 🚀  Podem me encontrar no meu [Linkedin](https://www.linkedin.com/in/viniciusmaclters/)
-
-
-<br>
-
-## 🛠 &nbsp;Tech Stack
-
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-## ⚙️ &nbsp;GitHub Analytics
-<br>
-
-<p align="center">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=viniciusmaclters&show_icons=true&theme=nightowl" alt="vinicius stats"/>
-</p>
-
-##
-
-<p align="center" style="background:blue">
-  <a href="https://www.instagram.com/viniciusmaclters/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-viniciusmaclters-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://www.linkedin.com/in/viniciusmaclters/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-viniciusmaclters-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
- 
- <a href="mailto:vinicius.maclters@hotmail.com" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/viniciusmaclters-05122A?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/>
-</a>
- 
- 
-
-
-
-<!--
-**viniciusmaclters/ViniciusMaclters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viniciusmaclters&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=viniciusmacltersk&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
