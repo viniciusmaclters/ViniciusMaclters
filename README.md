@@ -8,7 +8,9 @@
 
 </h4>
 
-Atualmente estudante de programação, tenho focado na área de Front-end e em busca da minha primeira oportunidade em programação. 
+Atualmente estudante de programação na RocketSeat. 
+
+Tenho focado na área de Front-end na biblioteca ReactJs e em busca da minha primeira oportunidade em programação. 
 
 Tenho conhecimento em: HMTL, CSS, JavaScript, TypeScript, React, SaSS, Git, Linux, Windows.
 
