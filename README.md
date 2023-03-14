@@ -12,6 +12,6 @@ Tenho focado na área de Front-end na biblioteca ReactJs e em busca da minha pri
 
 Atualmente estudante de programação na RocketSeat.  
 
-Possuo conhecimento em: HTML, CSS, JavaScript, React, TypeScript, SaSS, Git, Linux, Windows.
+Possuo conhecimento em: HTML, CSS, JavaScript, React, TypeScript, Styled Components, Git, Linux, Windows.
 
 Você pode entrar em contato comigo pelo meu email: vinicius.maclters@hotmail.com
