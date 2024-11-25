@@ -8,10 +8,10 @@
 
 </h4>
 
-Tenho focado na área de Front-end na biblioteca ReactJs e em busca da minha primeira oportunidade em programação.
+Tenho focado na área de Back-end na biblioteca NodeJs e em busca da minha primeira oportunidade em programação.
 
 Atualmente estudante de programação na RocketSeat.  
 
-Possuo conhecimento em: HTML, CSS, JavaScript, React, TypeScript, Styled Components, Git, Linux, Windows.
+Possuo conhecimento em: HTML, CSS, JavaScript, NodeJs, Git, Github, Linux, Windows.
 
 Você pode entrar em contato comigo pelo meu email: vinicius.maclters@hotmail.com
